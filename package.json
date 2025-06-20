@@ -1,0 +1,19 @@
+{
+  "name": "curseforge_mod_downloader",
+  "version": "1.0.0",
+  "description": "descarga los mods de un archivo manifest (formato de curseforge)",
+  "main": "download_mods.py",
+  "scripts": {
+    "test": "python download_mods.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarTryxz/download_mods_py.git"
+  },
+  "author": "MarTryxz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarTryxz/download_mods_py/issues"
+  },
+  "homepage": "https://github.com/MarTryxz/download_mods_py#readme"
+}
